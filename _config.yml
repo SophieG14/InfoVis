@@ -3,6 +3,9 @@ html:
 
 execute:
   remove_code_source: true
+  execute_notebooks: "off"  # disables rerun (if needed)
+  
+hide_code: true
 
 html:
   extra_css:
