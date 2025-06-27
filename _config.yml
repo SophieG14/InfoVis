@@ -1,2 +1,5 @@
 html:
   show_code: false
+
+execute:
+  remove_code_source: true
