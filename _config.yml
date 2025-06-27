@@ -3,3 +3,7 @@ html:
 
 execute:
   remove_code_source: true
+
+html:
+  extra_css:
+    - custom.css
